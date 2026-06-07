@@ -2,8 +2,8 @@
 
 ## Thành viên
 
-- Du Huỳnh Tấn
-- [Tên thành viên 2]
+- Du Huỳnh Tấn MSSV: 082206006862
+- Lê Hoài Quốc MSSV: 079205009219
 
 ## Môn học
 
