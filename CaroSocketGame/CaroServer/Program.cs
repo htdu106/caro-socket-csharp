@@ -458,8 +458,8 @@ namespace CaroServer
                                 lock (_lock)
                                 {
                                     room.IsGameStarted = true;
-                                    room.Score1 = 0;
-                                    room.Score2 = 0;
+                                    //room.Score1 = 0;
+                                    //room.Score2 = 0;
                                     room.ResetGameBoard();
                                 }
                                 await BroadcastToRoomAsync(room, MessageProtocol.CreateStart(), null);
