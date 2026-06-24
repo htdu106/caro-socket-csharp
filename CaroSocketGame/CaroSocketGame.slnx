@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="CaroClient/CaroClient.csproj" />
-  <Project Path="CaroServer/CaroServer.csproj" />
-</Solution>
