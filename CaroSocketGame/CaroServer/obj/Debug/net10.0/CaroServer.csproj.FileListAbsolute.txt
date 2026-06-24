@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\bin\Debug\net10.0\CaroServer.exe
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\bin\Debug\net10.0\CaroServer.deps.json
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\bin\Debug\net10.0\CaroServer.runtimeconfig.json
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\bin\Debug\net10.0\CaroServer.dll
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\bin\Debug\net10.0\CaroServer.pdb
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.AssemblyInfo.cs
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.sourcelink.json
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.dll
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\refint\CaroServer.dll
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.pdb
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\CaroServer.genruntimeconfig.cache
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroServer\obj\Debug\net10.0\ref\CaroServer.dll

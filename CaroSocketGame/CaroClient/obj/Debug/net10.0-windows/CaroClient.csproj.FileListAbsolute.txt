@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\bin\Debug\net10.0-windows\CaroClient.exe
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\bin\Debug\net10.0-windows\CaroClient.deps.json
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\bin\Debug\net10.0-windows\CaroClient.runtimeconfig.json
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\bin\Debug\net10.0-windows\CaroClient.dll
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\bin\Debug\net10.0-windows\CaroClient.pdb
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.Form1.resources
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.AssemblyInfo.cs
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.sourcelink.json
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.dll
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\refint\CaroClient.dll
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.pdb
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\CaroClient.genruntimeconfig.cache
+C:\Users\Admin\Documents\LAPTRINHMANG\CaroSocket\CaroSocketGame\CaroClient\obj\Debug\net10.0-windows\ref\CaroClient.dll
